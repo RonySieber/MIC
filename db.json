@@ -1,31 +1,19 @@
 {
-  "posts": [
+  "mics": [
     {
       "id": 1,
-      "title": "Post 1"
+      "serial": "201911032306017639",
+      "status": "New"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "serial": "201911032306017640",
+      "status": "New"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "serial": "201911032306017641",
+      "status": "New"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
